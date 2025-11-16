@@ -58,4 +58,12 @@ This project helps small and medium organizations manage **employees, salary, at
 ---
 
 ## 📂 Project Structure
+Employee-Payroll-Portal/Main Page
+│
+├── LOGINPAGE.py
+├── dashboard.py
+
+👤 Author
+Suryanshi
+📧 Email: gurjarji8630@gmail.com
 
